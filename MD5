@@ -1,0 +1,12 @@
+d4fd3df0f5879e2b122c0850360d0680 *DESCRIPTION
+5eb3e4df0b689f5de0f2861d0e4c1cee *NAMESPACE
+3d35d628fa06033cf123f6669a27cf8e *R/TFX-package.R
+948c22d96fbf4bc597623fb35f52e291 *R/TFX.R
+e9e8a22c0803378f2722114ef3a63a92 *R/TrueFXRef.R
+6c6c7e2b1867bee1cf96c07b4ab1502e *man/Disconnect.Rd
+e1d581999f315fe7f464ae38f58a02e1 *man/ParseTrueFX.Rd
+3bfe1cc086855af4daf8b7ff197ff724 *man/QueryTrueFX.Rd
+b31a53d6e7628b3fb191ddbc6fc97dca *man/Reconnect.Rd
+5fe9892b3fa80377d495bed11aae22c2 *man/TFX.Rd
+302be63c830c6eed8cf102451421b377 *man/TrueFXRef.Rd
+21d8a5b8b9afbe1ff014d67a8ee23895 *man/isActive.Rd
